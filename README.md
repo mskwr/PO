@@ -1,2 +1,5 @@
 # PO
-Object-oriented programming.
+Programowanie obiektowe.
+
+Zawiera zadania:
+1.
