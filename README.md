@@ -2,4 +2,4 @@
 Programowanie obiektowe.
 
 Zawiera zadania:
-1. x
+1. Ewolucja - symulacja ewolucji "robów".
