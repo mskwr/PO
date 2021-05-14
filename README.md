@@ -2,4 +2,4 @@
 Programowanie obiektowe.
 
 Zawiera zadania:
-1.
+1. x
